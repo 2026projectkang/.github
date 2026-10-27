@@ -1,4 +1,10 @@
 ---
+name: "기능 개발"
+about: "새로운 기능 개발 및 개선 작업"
+title: "[Feat] "
+labels: []
+assignees: []
+---
 
 ## 작업 목적
 
